@@ -6,7 +6,7 @@ Me chamo Marcus Augusto, tenho 20 anos e sou natural do Mato Grosso do Sul. Atua
 ### 🚀 O que estou construindo e explorando
 
 * Aprimorando minhas habilidades em **Desenvolvimento Web Frontend**. 
-* Expandindo conhecimentos em **Desenvolvimento Backend** com **Java**. 
+
 
 * Aprofundando em **UX/UI Design** para criar interfaces cada vez mais intuitivas e acessíveis.
 
